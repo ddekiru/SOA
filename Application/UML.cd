@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Application.ApplicationServiceRegistration">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApplicationServiceRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application.Authentication.Models.AuthenticationRequest">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Authentication\Models\AuthenticationRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application.Authentication.Models.AuthenticationResponse">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAQAAAAAACAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Authentication\Models\AuthenticationResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application.Authentication.Models.RegistrationRequest">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAACAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Authentication\Models\RegistrationRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application.Authentication.Models.RegistrationResponse">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Authentication\Models\RegistrationResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application.Services.AdminUserService" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAAAAAAAAECAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Services\AdminUserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Application.Services.InternshipApplicationService" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEAAQAIAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Services\InternshipApplicationService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Application.Services.InternshipService" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAIgAAAAAAAAAAAAAAAAAACAEAAAAAAAAAAA=</HashCode>
+      <FileName>Services\InternshipService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Application.Services.RegularUserService" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Services\RegularUserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Domain.Domain.AdminUser">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Domain.Domain.Internship">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Domain.Domain.InternshipApplication">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Domain.Domain.RegularUser">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
